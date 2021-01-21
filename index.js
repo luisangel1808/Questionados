@@ -16,6 +16,10 @@ class Game{
         loginContainer.classList.replace('login','hidden')
         const gameContainer=document.getElementById('game')
         gameContainer.classList.replace('hidden','question')
+        const corrects = document.getElementById('corrects')
+        corrects.innerHTML='0'
+        const incorrects = document.getElementById('incorrects')
+        incorrects.innerHTML='0'
     }
 
     showQuestion(question){        
@@ -80,13 +84,12 @@ class Game{
         this.showQuestion(this.questionsSelected[this.number])
     }   
     goodAnswer(){
-        console.log('good job')
         this.right++
         const corrects = document.getElementById('corrects')
         corrects.innerHTML=`${this.right}`
     }
     badAnswer(){
-        console.log('wrong')
+
         this.incorrect++
         const incorrects = document.getElementById('incorrects')
         incorrects.innerHTML=`${this.incorrect}`
