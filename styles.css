@@ -7,6 +7,7 @@ html{
     font-size: 62.5%;
 }
 body{
+    height: 100%;
     background-color: bisque;
 }
 .question{
