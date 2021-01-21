@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionados</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="hidden" id="game" >
+        <div class="container">
+            <img src="" alt="Imagen" id="questionImg">
+        </div>
+        <div class="questions">
+            
+        </div>
+        <div class="feedback">
+            <div class="feedback__correctIndicators">
+                <p id="incorrects">0</p>
+            </div>
+            <div class="feedback__timer">
+                <p id="timer"></p>
+            </div>
+            <div class="feedback__incorrectIndicators">
+                <p id="corrects">0</p>
+            </div>
+        </div>
+    </section>
+    <section class="login" id="login">
+        <div class="login__container">
+            <h1>Bienvenido a Questionados</h1>
+            <input type="text" id="player" placeholder="Ingresa tu nombre">            
+            <h2>Selecciona la categoría</h2>
+            <div class="options">
+                <button onclick="start(`Science`)">Ciencia</button>
+                <button onclick="start(`Sports`)">Deportes</button>
+                <button onclick="start(`Geography`)">Geografía</button>
+                <button onclick="start(`History`)">Historia</button>
+                <button onclick="start(`All`)">Combinadas</button>
+            </div>
+        </div>
+    </section>
+    <section class="hidden" id="scores">
+        <h2>Tabla de puntuación</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Aciertos/Fallos</th>
+                    <th>Tiempo</th>
+                </tr>
+            </thead>
+            <tbody id="scoresbody">
+
+            </tbody>
+        </table>
+
+        <button id="playAgain">Jugar de nuevo</button>
+    </section>
+    <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,573 @@
+{
+    "questions":[
+        {
+            "id":1,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":2,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":3,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":4,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":5,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":6,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":7,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":8,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":9,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":10,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":11,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":12,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":13,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":14,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":15,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":16,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":17,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":18,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":19,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":20,
+            "category":"Science",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":21,
+            "category":"Geography",
+            "Question":"¿Cuál es el país más grande del mundo?",
+            "Correct":"Rusia",
+            "Options":["Cnina", "Brasil", "Estados Unidos"]
+        },
+        {
+            "id":22,
+            "category":"Geography",
+            "Question":"¿Qué país tiene más volcanes?",
+            "Correct":"Estados Unidos",
+            "Options":["Reino Unido", "Brasil", "Egipto"]
+        },
+        {
+            "id":23,
+            "category":"Geography",
+            "Question":"¿En qué ciudad está ubicado el Taj Mahal?",
+            "Correct":"Agra",
+            "Options":["Nueva Delhi", "Bombai", "El Cairo"]
+        },
+        {
+            "id":24,
+            "category":"Geography",
+            "Question":"¿Qué río atraviesa París?",
+            "Correct":"Río Sena",
+            "Options":["Río Rin", "Río Volga", "Río Danubio"]
+        },
+        {
+            "id":25,
+            "category":"Geography",
+            "Question":"¿Cuál es el océano más grande del mundo?",
+            "Correct":"Océano Pacífico",
+            "Options":["Océano Atlántico", "Océano Índico", "Océano Antártico"]
+        },
+        {
+            "id":26,
+            "category":"Geography",
+            "Question":"¿Cuál es la capital de Brasil?",
+            "Correct":"Brasilia",
+            "Options":["Manaos", "Rio de Janeiro", "Sao Paulo"]
+        },
+        {
+            "id":27,
+            "category":"Geography",
+            "Question":"¿Cuál es la isla más grande del mar Caribe?",
+            "Correct":"Cuba",
+            "Options":["Puerto Rico", "Japón", "Costa Rica"]
+        },
+        {
+            "id":28,
+            "category":"Geography",
+            "Question":"¿En qué país puedes visitar Machu Picchu?",
+            "Correct":"Perú",
+            "Options":["Chile", "Argentina", "México"]
+        },
+        {
+            "id":29,
+            "category":"Geography",
+            "Question":"¿Dónde desemboca el río Amazonas?",
+            "Correct":"Una estrella",
+            "Options":["Océano Atlántico", "Océano Pacífico", "Océano Ártico"]
+        },
+        {
+            "id":30,
+            "category":"Geography",
+            "Question":"¿Qué país es el segundo más grande del mundo en términos de población?",
+            "Correct":"India",
+            "Options":["China", "Rusia", "Indonesia"]
+        },
+        {
+            "id":31,
+            "category":"Geography",
+            "Question":"¿Cuál es el país más poblado de África?",
+            "Correct":"Nigeria",
+            "Options":["Egipto", "Camerún", "Malí"]
+        },
+        {
+            "id":32,
+            "category":"Geography",
+            "Question":"El estrecho de Gibraltar separa a España de: ",
+            "Correct":"Marruecos",
+            "Options":["Portugal", "Libia", "Argelia"]
+        },
+        {
+            "id":33,
+            "category":"Geography",
+            "Question":"¿Cuál es la capital de Estonia?",
+            "Correct":"Tallín",
+            "Options":["Bakú", "Riga", "Vilnus"]
+        },
+
+        {
+            "id":34,
+            "category":"Geography",
+            "Question":"¿Cuál de estos países NO formaba parte de la antigua Yugoslavia?",
+            "Correct":"Rumania",
+            "Options":["Serbia", "Bosnia", "Macedonia"]
+        },
+        {
+            "id":35,
+            "category":"Geography",
+            "Question":"¿Cuál es la capital de Colombia?",
+            "Correct":"Bogotá",
+            "Options":["Medellín", "Cali", "Barranquilla"]
+        },
+        {
+            "id":36,
+            "category":"Geography",
+            "Question":"¿Cuál de estos países no tiene costas?",
+            "Correct":"Bolivia",
+            "Options":["Chile", "Uruguay", "Venezuela"]
+        },
+        {
+            "id":37,
+            "category":"Geography",
+            "Question":"¿Con cuál de estos países no limita Italia?",
+            "Correct":"Alemania",
+            "Options":["Eslovenia", "Suiza", "Austria"]
+        },
+
+        {
+            "id":38,
+            "category":"Geography",
+            "Question":"¿Cuál es la capital de Cánada?",
+            "Correct":"Ottawa",
+            "Options":["Toronto", "Ontario", "Wellington"]
+        },
+        {
+            "id":39,
+            "category":"Geography",
+            "Question":"¿Dónde se ubica el monte Kilimanjaro?",
+            "Correct":"Tanzania",
+            "Options":["Zimbabwe", "Australia", "Egipto"]
+        },
+        {
+            "id":40,
+            "category":"Geography",
+            "Question":"¿Cuál es la ciudad más grande de China?",
+            "Correct":"Shanghai",
+            "Options":["Hong Kong", "Tokyo", "Pekín"]
+        },
+        {
+            "id":41,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+
+        {
+            "id":42,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":43,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":44,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+
+        {
+            "id":45,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":46,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":47,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+
+        {
+            "id":48,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":49,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":50,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+
+        {
+            "id":51,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":52,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":53,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":54,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":55,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":56,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":57,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":58,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":59,
+            "category":"History",
+            "Question":"¿Qué es el sol?",
+            "Correct":"Una estrella",
+            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+        },
+        {
+            "id":60,
+            "category":"History",
+            "Question":"¿En que año finalizó la segunda guerra mundial?",
+            "Correct":"1945",
+            "Options":["1939", "1942", "1936"]
+        },
+        {
+            "id":61,
+            "category":"Sports",
+            "Question":"¿Cuál es el equipo más ganador del mundial de fútbol?",
+            "Correct":"Brasil",
+            "Options":["Alemania", "Italia", "Argentina"]
+        },
+        {
+            "id":62,
+            "category":"Sports",
+            "Question":"¿Qué equipo de fútbol tiene mas Uefa Champions League?",
+            "Correct":"Real Madrid",
+            "Options":["Barcelona", "Liverpool", "Milán"]
+        },
+        {
+            "id":63,
+            "category":"Sports",
+            "Question":"¿Cuál es el deportista con más medallas de oro en los juegos olímpicos?",
+            "Correct":"Michael Phelps",
+            "Options":["Carl Lewis", "Mark Spitz", "Larisa Latynina"]
+        },
+        {
+            "id":64,
+            "category":"Sports",
+            "Question":"¿Qué pieza solo mueve en diagonal en el ajedrez?",
+            "Correct":"El alfil",
+            "Options":["La torre", "El peón", "El caballo"]
+        },
+        {
+            "id":65,
+            "category":"Sports",
+            "Question":"¿Cuál ha sido el único tenista en ganar los cuatro Grand Slam en el mismo año en dos ocasiones?",
+            "Correct":"Rod Laver",
+            "Options":["Roger Federer", "Rafael Nadal", "Pete Sampras"]
+        },
+        {
+            "id":66,
+            "category":"Sports",
+            "Question":"¿Quién es el máximo goleador en la historia de los mundiales de fútbol?",
+            "Correct":"Miroslav Klose",
+            "Options":["Ronaldo", "Lionel Messi", "Gerd Müller"]
+        },
+        {
+            "id":67,
+            "category":"Sports",
+            "Question":"¿Cuál de estos equipos no es de Londres?",
+            "Correct":"Everton",
+            "Options":["Chelsea", "Arsenal", "Tottenham Hotspur"]
+        },
+        {
+            "id":68,
+            "category":"Sports",
+            "Question":"¿Cuál NO es una de las grandes vueltas del ciclimos?",
+            "Correct":"El tour del Reino Unido",
+            "Options":["El tour de Francia", "El giro de Italia", "La vuelta a España"]
+        },
+        {
+            "id":69,
+            "category":"Sports",
+            "Question":"Los equipos participantes en la NBA son de Estados Unidos y ___________",
+            "Correct":"Canadá",
+            "Options":["México", "Costa Rica", "España"]
+        },
+        {
+            "id":70,
+            "category":"Sports",
+            "Question":"¿Qué país ganó el primer mundial de fútbol?",
+            "Correct":"Uruguay",
+            "Options":["Argentina", "Italia", "Brasil"]
+        },
+        {
+            "id":71,
+            "category":"Sports",
+            "Question":"¿Quién ganó el premio Puskás en 2014?",
+            "Correct":"James Rodríguez",
+            "Options":["Robin Van Persie", "David Luiz", "Cristiano Ronaldo"]
+        },
+        {
+            "id":72,
+            "category":"Sports",
+            "Question":"¿Cuál fue el primer ciclista latinoamericano en ganar el Tour de Francia?",
+            "Correct":"Egan Bernal",
+            "Options":["Nairo Quintana", "Richard Carapaz", "Lucho Herrera"]
+        },
+        {
+            "id":73,
+            "category":"Sports",
+            "Question":"¿Cuál es la nacionalidad de Novak Djokovic?",
+            "Correct":"Serbia",
+            "Options":["Suiza", "Rusa", "Italiana"]
+        },
+        {
+            "id":74,
+            "category":"Sports",
+            "Question":"¿Qué entidad se encarga de regular el tenis de mesa a nivel mundial?",
+            "Correct":"La ITTF",
+            "Options":["La FIFA", "LA ATP", "LA FEDA"]
+        },
+        {
+            "id":75,
+            "category":"Sports",
+            "Question":"¿Cuál es el equipo más ganador de la copa libertadores de América?",
+            "Correct":"Independiente",
+            "Options":["Boca Juniors", "Santos", "River Plate"]
+        },
+        {
+            "id":76,
+            "category":"Sports",
+            "Question":"¿Cuántos strikes deben ocurrir para que un bateador sea ponchado?",
+            "Correct":"3",
+            "Options":["1", "2", "4"]
+        },
+        {
+            "id":77,
+            "category":"Sports",
+            "Question":"¿Cuál fue el primer equipo de la NBA en el que jugó Michael Jordan?",
+            "Correct":"Chicago Bulls",
+            "Options":["Washington Wizards", "Boston Celtics", "LA Lakers"]
+        },
+        {
+            "id":78,
+            "category":"Sports",
+            "Question":"¿Quién ganó la medalla de oro en BMX femenino en los juegos olímpicos de 2012 y 2016?",
+            "Correct":"Mariana Pajón",
+            "Options":["Sarah Walker", "Laura Smulders", "Stefany Hernandez "]
+        },
+        {
+            "id":79,
+            "category":"Sports",
+            "Question":"¿En qué equipo jugó Alfredo di Stéfano antes de ir al Real Madrid?",
+            "Correct":"Millonarios",
+            "Options":["Valencia", "Boca Juniors", "Liverpool"]
+        },
+        {
+            "id":80,
+            "category":"Sports",
+            "Question":"¿Quién tiene más victorias en carreras de F1?",
+            "Correct":"Lewis Hamilton",
+            "Options":["Michael Schumacher", "Ayrton Senna", "Sebastian Vettel"]
+        }
+        
+    ]
+
+}
+
