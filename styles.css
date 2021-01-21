@@ -7,12 +7,13 @@ html{
     font-size: 62.5%;
 }
 body{
-    height: 100%;
+
     background-color: bisque;
 }
 .question{
     display: flex;
-    height: 80vh;
+    height: 100vh;
+    width: 100vw;
     flex-direction: column;
     align-items: center;
     justify-content: center;
