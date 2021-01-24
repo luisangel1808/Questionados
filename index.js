@@ -64,12 +64,11 @@ class Game{
                     }
                 }
     
-            })    
+            });    
             this.showImage();
             questionsContainer.insertBefore(questionTitle,optionsContainer); 
             this.number++;
         }
-
     }
 
     async getData()  {  
@@ -83,72 +82,70 @@ class Game{
                 }
             })
         }
-        this.questionsSelected.sort(()=>{return 0.5 - Math.random()})
-        this.questionsSelected= this.questionsSelected.splice(0,20)
-        this.showQuestion(this.questionsSelected[this.number])
+        this.questionsSelected.sort(()=>{return 0.5 - Math.random()});
+        this.questionsSelected= this.questionsSelected.splice(0,20);
+        this.showQuestion(this.questionsSelected[this.number]);
     }   
     goodAnswer(){
         this.right++
-        const corrects = document.getElementById('corrects')
-        corrects.innerHTML=`${this.right}`
-        const gAMessagges= ['Lo haces genial','¡Que inteligente!','¡Eres genial!','¡Sigue así!','¡Fantástico!']
-        this.showMessage(gAMessagges)
+        const corrects = document.getElementById('corrects');
+        corrects.innerHTML=`${this.right}`;
+        const gAMessagges= ['Lo haces genial','¡Que inteligente!','¡Eres genial!','¡Sigue así!','¡Fantástico!'];
+        this.showMessage(gAMessagges);
 
     }
     badAnswer(){
-
-        this.incorrect++
-        const incorrects = document.getElementById('incorrects')
-        incorrects.innerHTML=`${this.incorrect}`
-        const bAMessagges= ['Uy, casi','Lo siento, incorrecto','Concéntrate un poco más', 'Fallaste por poco', 'Sigue intentando']
-        this.showMessage(bAMessagges)
+        this.incorrect++;
+        const incorrects = document.getElementById('incorrects');
+        incorrects.innerHTML=`${this.incorrect}`;
+        const bAMessagges= ['Uy, casi','Lo siento, incorrecto','Concéntrate un poco más', 'Fallaste por poco', 'Sigue intentando'];
+        this.showMessage(bAMessagges);
     }
 
     showMessage(phrases){
-        const messagge = document.getElementById('message')
-        messagge.innerText=phrases[Math.round(Math.random()*5)]       
+        const messagge = document.getElementById('message');;
+        messagge.innerText=phrases[Math.round(Math.random()*4)]       
     }
     showImage(){
-        const image=document.querySelector('#questionImg') 
-        image.src=`assets/img/${this.questionsSelected[this.number].category}.png`
-        image.alt='category'
+        const image=document.querySelector('#questionImg');
+        image.src=`assets/img/${this.questionsSelected[this.number].category}.png`;
+        image.alt='category';
     }
 
     removeElements(element){
         while(element.firstChild){
-            element.removeChild(element.firstChild)
+            element.removeChild(element.firstChild);
         }
     }
     showTable(){
-        const scoresBody = document.getElementById('scoresbody')
-        const tdName = document.createElement('td')
-        const tRow = document.createElement('tr')
+        const scoresBody = document.getElementById('scoresbody');
+        const tdName = document.createElement('td');
+        const tRow = document.createElement('tr');
         scoresBody.appendChild(tRow);
-        tdName.innerText=this.player
-        tRow.appendChild(tdName)
-        const tdScore = document.createElement('td')
-        tdScore.innerText=`${this.right}/${this.incorrect}`
-        tRow.appendChild(tdScore)
-        const tdTime = document.createElement('td')
-        tdTime.innerText=`${this.minutesBoard}:${this.secondsBoard}`
-        tRow.appendChild(tdTime)
-        const scoresContainer=document.getElementById('scores')
-        scoresContainer.classList.replace('hidden','scores')
-        const gameContainer=document.getElementById('game')
-        gameContainer.classList.replace('question','hidden')
-        const playAgain = document.getElementById('playAgain')
+        tdName.innerText=this.player;
+        tRow.appendChild(tdName);
+        const tdScore = document.createElement('td');
+        tdScore.innerText=`${this.right}/${this.incorrect}`;
+        tRow.appendChild(tdScore);
+        const tdTime = document.createElement('td');
+        tdTime.innerText=`${this.minutesBoard}:${this.secondsBoard}`;
+        tRow.appendChild(tdTime);
+        const scoresContainer=document.getElementById('scores');
+        scoresContainer.classList.replace('hidden','scores');
+        const gameContainer=document.getElementById('game');
+        gameContainer.classList.replace('question','hidden');
+        const playAgain = document.getElementById('playAgain');
         playAgain.onclick = () =>{
-            scoresContainer.classList.replace('scores','hidden')
-            const loginContainer=document.getElementById('login')
-            loginContainer.classList.replace('hidden','login')
+            scoresContainer.classList.replace('scores','hidden');
+            const loginContainer=document.getElementById('login');
+            loginContainer.classList.replace('hidden','login');
         }
     }   
 
-    timer(){
-        
+    timer(){        
             setInterval(() => {
                 if (this.active===true) {
-                    const timerContainer=document.getElementById('timer')
+                    const timerContainer=document.getElementById('timer');
                     this.seconds++;
                     if (this.seconds === 60) {
                     this.seconds = 0;
@@ -167,9 +164,8 @@ class Game{
             },1000);       
     };
 }  
-
-function start(category){    
-    const playerInput = document.getElementById('player')
+const start = (category) =>{    
+    const playerInput = document.getElementById('player');
     const player = playerInput.value;
     const game = new Game(category,player)
 }
