@@ -10,142 +10,142 @@
         {
             "id":2,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál es el símbolo químico del oro?",
+            "Correct":"Au",
+            "Options":["Ag", "Or", "G"]
         },
         {
             "id":3,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"El proceso mediante el cual se generan moléculas orgánicas a partir de sustancias inorgánicas usando como fuente de energía el sol es: ",
+            "Correct":"Fotosíntesis",
+            "Options":["Catabolismo", "Anabolismo", "Translocación"]
         },
         {
             "id":4,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"Contiene las instrucciones genéticas usadas en el desarrollo y funcionamiento de todos los organismos vivos​: ",
+            "Correct":"ADN",
+            "Options":["ARN", "Lípidos", "Hematocritos"]
         },
         {
             "id":5,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuántos cromosomas tienen los seres humanos?",
+            "Correct":"46",
+            "Options":["52", "38", "48"]
         },
         {
             "id":6,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuántos huesos tiene una persona adulta?",
+            "Correct":"206",
+            "Options":["202", "198", "194"]
         },
         {
             "id":7,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"El proceso por el que una célula se divide para formar dos células hijas se llama:",
+            "Correct":"Mitosis",
+            "Options":["Meiosis", "Segregación", "Reproducción"]
         },
         {
             "id":8,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál es el planeta más grande de nuestro sistema solar?",
+            "Correct":"Jupiter",
+            "Options":["Saturno", "Urano", "Neptuno"]
         },
         {
             "id":9,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál de estos NO es un animal vivíparo?",
+            "Correct":"Avestruz",
+            "Options":["Rinoceronte", "Delfín", "Caballo"]
         },
         {
             "id":10,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál es el elemento más abundante en el universo conocido?",
+            "Correct":"Hidrógeno",
+            "Options":["Nitrógeno", "Oxígeno", "Helio"]
         },
         {
             "id":11,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál de las siguientes enfermedades ataca el hígado?",
+            "Correct":"Hepatitis",
+            "Options":["Diabetes", "Artrósis", "Cifoescoliosis"]
         },
         {
             "id":12,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué cambio de estado ocurre en la sublimación?",
+            "Correct":"Solido a gaseoso",
+            "Options":["Gaseoso a líquido", "Sólido a líquido", "Líquido a sólido"]
         },
         {
             "id":13,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál es el hueso más pequeño del cuerpo humano?",
+            "Correct":"El estribo",
+            "Options":["El yunque", "La falange", "El cúbito"]
         },
         {
             "id":14,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué sustancias se liberan en una combustión completa?",
+            "Correct":"Dióxido de carbono y agua",
+            "Options":["Carbono, oxígeno y agua", "Monóxido de carbono y agua", "Solo agua"]
         },
         {
             "id":15,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál es la raíz cuadrada de 196?",
+            "Correct":"14",
+            "Options":["13", "12", "15"]
         },
         {
             "id":16,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuántos centímetros cúbicos tiene un litro?",
+            "Correct":"1000",
+            "Options":["100", "10", "1"]
         },
         {
             "id":17,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cómo se llama el movimiento que realiza la tierra alrededor del sol?",
+            "Correct":"Traslación",
+            "Options":["Rotación", "Órbita", "Circulación"]
         },
         {
             "id":18,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Quién es considerado el padre de la genética?",
+            "Correct":"Gregor Mendel",
+            "Options":["Nicolás Copérnico", "Louis Pasteur", "Dmitri Mendeléyev"]
         },
         {
             "id":19,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué es la levadura?",
+            "Correct":"Un hongo",
+            "Options":["Una planta", "Una bacteria", "Un animal"]
         },
         {
             "id":20,
             "category":"Science",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Dónde tienen las papilas gustativas las moscas?",
+            "Correct":"En las patas",
+            "Options":["En la trompa", "En las alas", "No tienen"]
         },
         {
             "id":21,
             "category":"Geography",
             "Question":"¿Cuál es el país más grande del mundo?",
             "Correct":"Rusia",
-            "Options":["Cnina", "Brasil", "Estados Unidos"]
+            "Options":["China", "Brasil", "Estados Unidos"]
         },
         {
             "id":22,
@@ -200,8 +200,8 @@
             "id":29,
             "category":"Geography",
             "Question":"¿Dónde desemboca el río Amazonas?",
-            "Correct":"Una estrella",
-            "Options":["Océano Atlántico", "Océano Pacífico", "Océano Ártico"]
+            "Correct":"Océano Atlántico",
+            "Options":["Océano Índico", "Océano Pacífico", "Océano Ártico"]
         },
         {
             "id":30,
@@ -285,139 +285,139 @@
         {
             "id":41,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿En qué viaja encontró Colón a los mayas?",
+            "Correct":"Cuarto",
+            "Options":["Primero", "Segundo", "Tercero"]
         },
 
         {
             "id":42,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿En qué año viajó el primer hombre a la luna?",
+            "Correct":"1969",
+            "Options":["1959", "1979", "1975"]
         },
         {
             "id":43,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿En qué año se independizó Colombia?",
+            "Correct":"1810",
+            "Options":["1815", "1823", "1802"]
         },
         {
             "id":44,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿En qué año tomó Fidel Castro La Habana?",
+            "Correct":"1959",
+            "Options":["1955", "1973", "1975"]
         },
 
         {
             "id":45,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"Según la mitolgía griega, ¿Quién era el dios de la guerra?",
+            "Correct":"Ares",
+            "Options":["Zeus", "Poseidon", "Atenea"]
         },
         {
             "id":46,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué imperio conquistó Hernán Cortés?",
+            "Correct":"El azteca",
+            "Options":["El inca", "El maya", "El olmeca"]
         },
         {
             "id":47,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué país le regaló la estatua de la libertad a Nueva York?",
+            "Correct":"Francia",
+            "Options":["Reino Unido", "Italia", "Irlanda"]
         },
 
         {
             "id":48,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Dónde nació Mahatma Gandhi?",
+            "Correct":"India",
+            "Options":["Congo", "China", "España"]
         },
         {
             "id":49,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cómo se llamaba el caballo de Alejandro Magno?",
+            "Correct":"Bucéfalo",
+            "Options":["Babieca", "Rocinante", "Galopante"]
         },
         {
             "id":50,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuál de los siguientes países estuvo involucrado en la guerra del pacífico?",
+            "Correct":"Inglaterra",
+            "Options":["Alemania", "Turquía", "España"]
         },
 
         {
             "id":51,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cómo se divide la edad de piedra?",
+            "Correct":"Paleolítico, mesolítico y neolítico",
+            "Options":["Neolítico y mesolítico", "Paleolítico, neolítico y edad de los metales", "Edad de bronce y neolítico"]
         },
         {
             "id":52,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Quién inventó la imprenta?",
+            "Correct":"Gutenberg",
+            "Options":["Imprentang", "Alejandro Magno", "Arquímedes"]
         },
         {
             "id":53,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cómo murió Monteczuma II?",
+            "Correct":"Apedreado por su pueblo",
+            "Options":["Envenenado", "Decapitado", "Ahogado"]
         },
         {
             "id":54,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Cuántos meses duró la batalla de Stalingrado en la segunda guerra mundial?",
+            "Correct":"6",
+            "Options":["1", "3", "4"]
         },
         {
             "id":55,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Quién fue el primer presidente de Estados Unidos?",
+            "Correct":"George Washington",
+            "Options":["Benjamin Franklin", "Abraham Lincoln", "John F. Kennedy"]
         },
         {
             "id":56,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué evento marca el fin de la prehistoria?",
+            "Correct":"La escritura",
+            "Options":["La agricultura", "El uso del fuego", "El trabajo con metales"]
         },
         {
             "id":57,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué países disputaron la guerra de los 100 años?",
+            "Correct":"Francia e Inglaterra",
+            "Options":["Francia y Alemania", "Alemania e Inglaterra", "Bélgica y Suiza"]
         },
         {
             "id":58,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Quién fue Atila?",
+            "Correct":"El rey de los Hunos",
+            "Options":["El rey de los germanos", "El rey de los otomanos", "El rey de los persas"]
         },
         {
             "id":59,
             "category":"History",
-            "Question":"¿Qué es el sol?",
-            "Correct":"Una estrella",
-            "Options":["Un planeta", "Un asteroide", "Una galaxia"]
+            "Question":"¿Qué sitio mexicano es considerado una de las siete maravillas del mundo moderno?",
+            "Correct":"Chicen Itza",
+            "Options":["La pirámide del sol", "San Juan de Ulua", "El Tepozteco"]
         },
         {
             "id":60,
